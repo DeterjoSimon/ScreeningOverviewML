@@ -1,2 +1,6 @@
 dataset/
 models/
+embeddings/
+dataset.zip
+notebooks/
+venv/
